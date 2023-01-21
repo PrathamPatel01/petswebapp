@@ -189,7 +189,7 @@ header.sticky{
 
 .home{
     min-height: 90vh;
-    background:url(images/home_bgg_img.jpg) no-repeat;
+    background:url(home_bgg_img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -295,7 +295,7 @@ header.sticky{
 
 .deal{
     min-height: 75vh;
-    background:url(images/deal-bg.webp) no-repeat;
+    background:url(deal-bg.webp) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -406,7 +406,7 @@ header.sticky{
 }
 
 .contact{
-    background:url(images/connn.jpg) no-repeat;
+    background:url(connn.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     padding-bottom: 7rem;
